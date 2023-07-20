@@ -2,7 +2,11 @@
 
 ## What is Frozen Lake?
 The Frozen Lake game is a simple grid-based environment where the player controls a character navigating a frozen lake. The objective is to reach the goal position without falling into holes in the ice. 
+
+
 The lake is represented by a grid, with each cell being either frozen, indicating safe ground, or a hole, which is a dangerous spot. The player can move in four directions: up, down, left, and right. 
+
+
 However, the ice is slippery, so once the player starts moving in a direction, they will continue sliding until they hit an obstacle or the edge of the grid. 
 The game provides a challenging and strategic experience as the player must plan their moves carefully to avoid the treacherous holes and successfully reach the goal.
 
