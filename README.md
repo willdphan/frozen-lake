@@ -15,25 +15,6 @@ This grid is our environment where S is the agent's starting point, and it's saf
 
 The agent can navigate left, right, up, and down, and the episode ends when the agent reaches the goal or falls in a hole. It receives a reward of one if it reaches the goal, and zero otherwise.
 
-
-## Steps to Frozen Lake Q-Learning:
-
-1. Install Libraries
-
-2. Create the Environment
-
-3. Create the Q-table
-
-4. Initialize Q-learning Parameters
-
-5. Build the Q-learning Algorithm
-
-6. Examine the Rewards
-
-7. Interpret Training Results
-
-8. Build the Q-learning Interface
-
 [Code](Frozen_Lake_Q_Learning.ipynb)
 
 ## License
