@@ -18,8 +18,6 @@ The agent can navigate left, right, up, and down, and the episode ends when the 
 
 ## Steps to Frozen Lake Q-Learning:
 
-Table Dictionary
-
 1. Install Libraries
 
 2. Create the Environment
@@ -35,6 +33,8 @@ Table Dictionary
 7. Interpret Training Results
 
 8. Build the Q-learning Interface
+
+[Code](Frozen_Lake_Q_Learning.ipynb)
 
 ## License
 
